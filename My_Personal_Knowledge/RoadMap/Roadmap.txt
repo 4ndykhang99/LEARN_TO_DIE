@@ -1,0 +1,13 @@
+Lộ trình của một lập trình Embedded sẽ chia ra làm những giai đoạn:
+- Intern & Fresher
+- Junior
+- Experienced
+- Senior
+- Technical Leader
+- Software architecture
+
+Embedded vẫn có tình trạng outtrending, nhưng chỉ thay đổi về mặt công nghệ, nhưng vễ mặt kiến thức, kỹ thuật không thay đổi
+Intern: là sinh viên, có lộ trình hướng dẫn về nghề nghiệp, offer thấp
+Fresher: thường các công ty có lộ trình đào tạo rõ ràng mới tuyển Fresher
+Junior: hướng đến những người có ít hơn 2 năm kinh nghiệm, yêu cầu đầu vào đòi hỏi phải có dự án thực tế, tuy nhiên, chấp nhận kinh nghiệm không phù hợp với dự án mới
+Tech leader: có kiến thức về kỹ thuật rộng, đủ chuyên môn để tư vấn
